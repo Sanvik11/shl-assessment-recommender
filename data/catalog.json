@@ -1,0 +1,222 @@
+[
+  {
+    "name": "Occupational Personality Questionnaire OPQ32r",
+    "url": "https://www.shl.com/solutions/products/product-catalog/view/occupational-personality-questionnaire-opq32r/",
+    "test_type": "P",
+    "description": "SHL's flagship personality questionnaire. Assesses workplace behavioural style and role fit against the Universal Competency Framework, based on 40+ years of validation research across 20+ countries.",
+    "job_levels": ["Entry-Level", "Graduate", "Professional Individual Contributor", "Mid-Professional", "Supervisor", "Front Line Manager", "Manager", "Director", "Executive", "General Population"],
+    "duration_minutes": 25,
+    "remote_testing": true,
+    "adaptive_irt": false
+  },
+  {
+    "name": "OPQ User and Managers Report",
+    "url": "https://www.shl.com/solutions/products/product-catalog/view/opq-user-and-managers-report/",
+    "test_type": "P",
+    "description": "OPQ output report pairing a candidate-facing User Report (profile chart and narrative) with a Manager's Report describing personal working style, intended to support feedback conversations.",
+    "job_levels": ["Front Line Manager", "Manager", "Mid-Professional", "Professional Individual Contributor", "Supervisor", "Director", "Executive", "Graduate", "General Population"],
+    "duration_minutes": null,
+    "remote_testing": true,
+    "adaptive_irt": false
+  },
+  {
+    "name": "OPQ Team Types & Leadership Styles Profile",
+    "url": "https://www.shl.com/solutions/products/product-catalog/view/opq-team-types-and-leadership-styles-profile/",
+    "test_type": "D",
+    "description": "OPQ-based report mapping an individual's preferred team role (Belbin team types) and leadership/reporting style (Bass), used for team composition and leadership development.",
+    "job_levels": ["Director", "Executive", "Front Line Manager", "General Population", "Graduate", "Manager", "Mid-Professional", "Professional Individual Contributor", "Supervisor"],
+    "duration_minutes": null,
+    "remote_testing": true,
+    "adaptive_irt": false
+  },
+  {
+    "name": "OPQ Universal Competency Report 2.0",
+    "url": "https://www.shl.com/products/product-catalog/view/opq-universal-competency-report-2-0/",
+    "test_type": "C",
+    "description": "OPQ-derived report mapping personality to the Universal Competency Framework, showing which competencies are likely helped or hindered by an individual's working style.",
+    "job_levels": ["Graduate", "Manager", "Mid-Professional", "Professional Individual Contributor", "Supervisor", "Director", "Executive", "General Population"],
+    "duration_minutes": null,
+    "remote_testing": true,
+    "adaptive_irt": false
+  },
+  {
+    "name": "OPQ Manager Plus Report",
+    "url": "https://www.shl.com/solutions/products/product-catalog/view/opq-manager-plus-report/",
+    "test_type": "D",
+    "description": "Concise OPQ report for use by and with line managers, summarising personality traits in bullet and table form for quick interpretation.",
+    "job_levels": ["Director", "Entry-Level", "Executive", "Front Line Manager", "Manager", "Mid-Professional", "Professional Individual Contributor"],
+    "duration_minutes": null,
+    "remote_testing": true,
+    "adaptive_irt": false
+  },
+  {
+    "name": "OPQ Maximising your Learning Report",
+    "url": "https://www.shl.com/solutions/products/product-catalog/view/opq-maximising-your-learning-report/",
+    "test_type": "D",
+    "description": "OPQ development report summarising an individual's preferred approach to learning across four dimensions, used to tailor training and development plans.",
+    "job_levels": ["Executive", "Front Line Manager", "General Population", "Graduate", "Manager", "Mid-Professional", "Professional Individual Contributor", "Supervisor", "Director"],
+    "duration_minutes": null,
+    "remote_testing": true,
+    "adaptive_irt": false
+  },
+  {
+    "name": "OPQ Emotional Intelligence Report",
+    "url": "https://www.shl.com/products/product-catalog/view/opq-emotional-intelligence-report/",
+    "test_type": "D",
+    "description": "OPQ-based report exploring how a person manages their own feelings and relationships with others, intended for use in development settings.",
+    "job_levels": ["Director", "Executive", "Front Line Manager", "General Population", "Graduate", "Manager", "Mid-Professional", "Professional Individual Contributor", "Supervisor"],
+    "duration_minutes": null,
+    "remote_testing": true,
+    "adaptive_irt": false
+  },
+  {
+    "name": "OPQ Candidate Plus Report",
+    "url": "https://www.shl.com/solutions/products/product-catalog/view/opq-candidate-plus-report/",
+    "test_type": "P",
+    "description": "Brief narrative OPQ report written to be shared directly with the candidate who completed the questionnaire.",
+    "job_levels": ["Director", "Executive", "Front Line Manager", "General Population", "Graduate", "Manager", "Mid-Professional", "Professional Individual Contributor", "Supervisor"],
+    "duration_minutes": null,
+    "remote_testing": true,
+    "adaptive_irt": false
+  },
+  {
+    "name": "Verify - Deductive Reasoning",
+    "url": "https://www.shl.com/products/product-catalog/view/verify-deductive-reasoning/",
+    "test_type": "A",
+    "description": "Measures the ability to draw logical conclusions from information provided, identify strengths and weaknesses of arguments, and complete scenarios using incomplete information. 18 minutes, 20 items.",
+    "job_levels": ["Director", "Entry-Level", "Executive", "Front Line Manager", "General Population", "Graduate", "Manager", "Mid-Professional", "Professional Individual Contributor", "Supervisor"],
+    "duration_minutes": 18,
+    "remote_testing": true,
+    "adaptive_irt": true
+  },
+  {
+    "name": "Verify - Numerical Ability",
+    "url": "https://www.shl.com/solutions/products/product-catalog/view/verify-numerical-ability/",
+    "test_type": "A",
+    "description": "Next-generation numerical reasoning test measuring the ability to derive numerical problems from written information, calculate answers, and interpret numerical data in a realistic work context. 20 minutes, 16 items.",
+    "job_levels": ["Graduate", "Mid-Professional", "Professional Individual Contributor", "Supervisor", "Manager"],
+    "duration_minutes": 20,
+    "remote_testing": true,
+    "adaptive_irt": true
+  },
+  {
+    "name": "Verify - Inductive Reasoning (2014)",
+    "url": "https://www.shl.com/solutions/products/product-catalog/view/verify-inductive-reasoning-2014/",
+    "test_type": "A",
+    "description": "Assesses the ability to identify patterns in data or situations and generalise them to broader contexts. Used for candidates at all levels who need logical reasoning ability.",
+    "job_levels": ["Director", "Entry-Level", "Executive", "Front Line Manager", "General Population", "Graduate", "Manager", "Mid-Professional", "Professional Individual Contributor", "Supervisor"],
+    "duration_minutes": 25,
+    "remote_testing": true,
+    "adaptive_irt": true
+  },
+  {
+    "name": "SHL Verify Interactive - Inductive Reasoning",
+    "url": "https://www.shl.com/products/product-catalog/view/shl-verify-interactive-inductive-reasoning/",
+    "test_type": "A",
+    "description": "Mobile-first, interactive version of the inductive reasoning test. Evaluates the ability to identify specific patterns in data or situations and generalise that information to broader contexts.",
+    "job_levels": ["Graduate", "Mid-Professional", "Professional Individual Contributor", "Entry-Level"],
+    "duration_minutes": 20,
+    "remote_testing": true,
+    "adaptive_irt": true
+  },
+  {
+    "name": "Following Instructions v1 - US (R2)",
+    "url": "https://www.shl.com/solutions/products/product-catalog/view/following-instructions-v1-us-r2/",
+    "test_type": "B",
+    "description": "Measures a candidate's ability to follow detailed instructions and select the correct course of action, presenting a set of rules and asking for the appropriate response to various situations.",
+    "job_levels": ["Entry-Level", "Front Line Manager", "Mid-Professional", "Professional Individual Contributor"],
+    "duration_minutes": 15,
+    "remote_testing": true,
+    "adaptive_irt": false
+  },
+  {
+    "name": "Spring (New)",
+    "url": "https://www.shl.com/solutions/products/product-catalog/view/spring-new/",
+    "test_type": "K",
+    "description": "Multiple-choice knowledge test covering Spring core, AOP (aspect-oriented programming), the IOC container, and transaction management.",
+    "job_levels": ["Mid-Professional", "Professional Individual Contributor"],
+    "duration_minutes": 15,
+    "remote_testing": true,
+    "adaptive_irt": false
+  },
+  {
+    "name": "Marketing (New)",
+    "url": "https://www.shl.com/solutions/products/product-catalog/view/marketing-new/",
+    "test_type": "K",
+    "description": "Multiple-choice test measuring conceptual knowledge of marketing principles, market research, consumer behavior, brand management, sales management, channel management and advertisement management.",
+    "job_levels": ["Graduate", "Manager", "Mid-Professional", "Professional Individual Contributor", "Supervisor"],
+    "duration_minutes": 17,
+    "remote_testing": true,
+    "adaptive_irt": false
+  },
+  {
+    "name": "Python (New)",
+    "url": "https://www.shl.com/solutions/products/product-catalog/view/python-new/",
+    "test_type": "K",
+    "description": "Multiple-choice test measuring knowledge of Python programming, databases, modules, and libraries.",
+    "job_levels": ["Mid-Professional", "Professional Individual Contributor"],
+    "duration_minutes": 15,
+    "remote_testing": true,
+    "adaptive_irt": false
+  },
+  {
+    "name": "Data Warehousing Concepts",
+    "url": "https://www.shl.com/solutions/products/product-catalog/view/data-warehousing-concepts/",
+    "test_type": "K",
+    "description": "Measures knowledge of data warehousing: big data and appliances, business considerations, data transformation, marts, dimensional data modeling, OLAP, and querying/reporting/data extraction.",
+    "job_levels": ["Mid-Professional", "Professional Individual Contributor"],
+    "duration_minutes": 20,
+    "remote_testing": true,
+    "adaptive_irt": false
+  },
+  {
+    "name": "ReactJS (New)",
+    "url": "https://www.shl.com/solutions/products/product-catalog/view/reactjs-new/",
+    "test_type": "K",
+    "description": "Multiple-choice test measuring technical knowledge of React APIs, the render function, JSX, form validation, and styling.",
+    "job_levels": ["Mid-Professional", "Professional Individual Contributor"],
+    "duration_minutes": 15,
+    "remote_testing": true,
+    "adaptive_irt": false
+  },
+  {
+    "name": "Enterprise Java Beans (New)",
+    "url": "https://www.shl.com/solutions/products/product-catalog/view/enterprise-java-beans-new/",
+    "test_type": "K",
+    "description": "Multiple-choice test measuring knowledge of Enterprise Java Beans (EJB), EJB types, transactions, and concurrency.",
+    "job_levels": ["Mid-Professional", "Professional Individual Contributor"],
+    "duration_minutes": 15,
+    "remote_testing": true,
+    "adaptive_irt": false
+  },
+  {
+    "name": "Core Java (Advanced Level) (New)",
+    "url": "https://www.shl.com/solutions/products/product-catalog/view/core-java-advanced-level-new/",
+    "test_type": "K",
+    "description": "Multiple-choice test measuring knowledge of basic Java constructs, OOP concepts, file/exception handling, and advanced Java topics such as generics, collections, threads, strings, and concurrency.",
+    "job_levels": ["Mid-Professional", "Professional Individual Contributor"],
+    "duration_minutes": 20,
+    "remote_testing": true,
+    "adaptive_irt": false
+  },
+  {
+    "name": "Java 2 Platform Enterprise Edition 1.4 Fundamental",
+    "url": "https://www.shl.com/products/product-catalog/view/java-2-platform-enterprise-edition-1-4-fundamental/",
+    "test_type": "K",
+    "description": "Measures basic J2EE 1.4 fundamentals covering business component development, J2EE architecture, JAX 1.2, JDBC 3.0, supporting APIs, web component development, and web service development.",
+    "job_levels": ["Entry-Level", "Mid-Professional", "Professional Individual Contributor"],
+    "duration_minutes": 20,
+    "remote_testing": true,
+    "adaptive_irt": false
+  },
+  {
+    "name": "VB.NET (New)",
+    "url": "https://www.shl.com/products/product-catalog/view/vb-net-new/",
+    "test_type": "K",
+    "description": "Multiple-choice test measuring knowledge of VB.NET assemblies, OOP concepts, ADO.NET, multithreading, exception handling, and GUI development.",
+    "job_levels": ["Mid-Professional", "Professional Individual Contributor"],
+    "duration_minutes": 15,
+    "remote_testing": true,
+    "adaptive_irt": false
+  }
+]
