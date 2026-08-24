@@ -175,14 +175,5 @@ Set `GEMINI_API_KEY` in the host's env vars for the production backend.
 Cold-start hosts are fine — the brief allows up to 2 minutes for the first
 `/health` call to wake the service.
 
-## Known limitations
 
-- `data/catalog_seed.json` is a 22-item verified sample, not the full SHL
-  catalog — Recall@10 against the full evaluator traces will improve once
-  `scraper/scrape_catalog.py` is run against the live site and
-  `data/catalog.json` is generated and re-indexed.
-- `OfflineBackend`'s off-topic/injection detection is regex-based and will
-  miss phrasings a real LLM would catch; it exists purely so the whole
-  pipeline is testable without a key. `GeminiBackend` relies on the system
-  prompt (rule 6) instead, which generalizes much better — that's the path
-  the real deployment should run on.
+
