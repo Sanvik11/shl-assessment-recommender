@@ -1,4 +1,4 @@
-# SHL Assessment Recommender
+# Conversational Assessment Recommender
 
 A conversational agent that takes a hiring manager from a vague intent
 ("I'm hiring a Java developer") to a grounded shortlist of SHL Individual
